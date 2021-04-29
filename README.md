@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning JAVA, SPRING
 
-[![saechimdaeki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saechimdaeki)](https://wakatime.com/@devksh930)
+[![saechimdaeki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devksh930)](https://wakatime.com/@devksh930)
 
 
 <!--
