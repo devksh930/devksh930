@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning JAVA, SPRING
 
+[![saechimdaeki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saechimdaeki)](https://wakatime.com/@devksh930)
+
 
 <!--
 **devksh930/devksh930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
